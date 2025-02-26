@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hailey Jang</h1>
 
-- 🏫 I'm third year student at **University of Toronto**
+- 🏫 I'm fourth year student at **University of Toronto**
 
 - 🌱 I’m currently learning **Statistics**
 
